@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ printAvgRtaingByFillter()
+comment1.params=
+comment1.target=void\ printSimilarRatingsByAVG()
+comment2.params=
+comment2.target=void\ printAvgRtaingBaesOnYearAfterAndGenre()
+comment3.params=
+comment3.target=void\ printAvgRtaingBaesOnGenre()
+comment4.params=
+comment4.target=void\ printAvgRtaingBaesOnDirectors()
+comment5.params=
+comment5.target=void\ printAvgRtaingBaesOnMinutesAndGenre()
+comment6.params=
+comment6.target=void\ printAvgRtaingsBasedOnYearAfterMinutes()
+numComments=7

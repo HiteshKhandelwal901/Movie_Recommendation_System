@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ThirdRatings()
+comment1.params=Ratingsfile
+comment1.target=ThirdRatings(java.lang.String)
+comment10.params=MinRaters\ filterCriteria
+comment10.target=java.util.ArrayList\ getAverageRatingsByFilter(int,\ Filter)
+comment11.params=MinRaters\ filterCriteria
+comment11.target=java.util.ArrayList\ getAverageRatingsByFilterDirector(int,\ Filter)
+comment2.params=
+comment2.target=int\ getRatersSize()
+comment3.params=movieID\ minRaters
+comment3.target=double\ getAverageByID(java.lang.String,\ int)
+comment4.params=MinRaters
+comment4.target=java.util.ArrayList\ getAverageRatings(int)
+comment5.params=ID\ RatingsList
+comment5.target=boolean\ Contains(java.lang.String,\ java.util.ArrayList)
+comment6.params=ID
+comment6.target=java.lang.String\ getTitle(java.lang.String)
+comment7.params=RatingsList\ title
+comment7.target=void\ print(java.util.ArrayList,\ java.util.ArrayList)
+comment8.params=movieID
+comment8.target=int\ getNumOfRaters(java.lang.String)
+comment8.text=\r\n\ @Override\r\n\ public\ boolean\ equals(Object\ obj)\r\n\ {\r\n\ \ \ Rater\ rt\ \=\ (Rater)\ obj;\r\n\ \ \ if(Integer.parseInt(rt.getItem())\=\=\ Integer.parseInt(rt.getItem()))\r\n\ \ \ {\r\n\ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ }\r\n\ \ \ \ return\ false;\r\n\ }\r\n
+comment9.params=Title
+comment9.target=java.lang.String\ getID(java.lang.String)
+numComments=12

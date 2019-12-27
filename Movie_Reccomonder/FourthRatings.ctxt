@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=me\ r
+comment0.target=double\ dotProduct(Rater,\ Rater)
+comment1.params=ID
+comment1.target=java.util.ArrayList\ getSimilarities(java.lang.String)
+comment2.params=id\ MinRaters\ numOfSimilarRaters\ filterCriteria
+comment2.target=java.util.ArrayList\ getSimilarRatingsbyFilter(java.lang.String,\ int,\ int,\ Filter)
+numComments=3
